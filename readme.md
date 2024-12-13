@@ -1,7 +1,7 @@
 # Hi there, I'm Steven Bytheway! 👋
 
 ## About Me
-I'm an digital architect by day, recreational programmer by night. I live in Utrecht with my family and work at AMIS Conclusion as a consultant. This github is my private github account, and is not used for any projects or products related to my work at AMIS Conclusion. 
+I'm an digital architect by day, recreational programmer by night. This github is my private github account, and is not used for any projects or products related to my work at AMIS Conclusion. 
 
  🔭  Currently working on an KYC/AML platform for a customer and an internal productivity platform that uses llm infused data pipelines. 
  
@@ -9,8 +9,7 @@ I'm an digital architect by day, recreational programmer by night. I live in Utr
  
  🤝  Always looking to collaborate on innovative projects and participate in (kaggle/algorithmic) competitions.
  
- 📫  How to reach me: Feel free to [open an issue](https://github.com/StevenTimotheus/StevenTimotheus) on this repo for inquiries or introductions. Let's connect! 
-    You can also find me on [LinkedIn](https://www.linkedin.com/in/steven-grond-37772413/)
+ 📫  How to reach me: Feel free to [open an issue](https://github.com/StevenBtw/StevenBtw) on this repo for inquiries or introductions. Let's connect!
 
 ## Main Fields of Expertise
 
@@ -68,7 +67,7 @@ I'm an digital architect by day, recreational programmer by night. I live in Utr
 
 ## 2024 Challenges
 ### September
-Participating in the PyData 2024 Challenge, you can read about it in [this blogpost](https://technology.amis.nl/machine-learning/mastering-realtime-data-how-i-topped-the-leaderboard-at-pydata/).
+Participated in the PyData 2024 Challenge, you can read about it in [this blogpost](https://technology.amis.nl/machine-learning/mastering-realtime-data-how-i-topped-the-leaderboard-at-pydata/).
 
 ### December
 Participating in advent of code ~~writing without using any python (best way to learn rust).~~ writing python and afterwards trying to create a rust implementation, it seems I still suck at writing rust (fast). 
