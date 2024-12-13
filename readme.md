@@ -1,4 +1,4 @@
-# Hi there, I'm Steven! 👋
+# Hi there, I'm Steven Bytheway! 👋
 
 ## About Me
 I'm an digital architect by day, recreational programmer by night. I live in Utrecht with my family and work at AMIS Conclusion as a consultant. This github is my private github account, and is not used for any projects or products related to my work at AMIS Conclusion. 
