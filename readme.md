@@ -73,4 +73,5 @@ Participated in the PyData 2024 Challenge, you can read about it in [this blogpo
 Participating in advent of code ~~writing without using any python (best way to learn rust).~~ writing python and afterwards trying to create a rust implementation, it seems I still suck at writing rust (fast).
 
 Participating in the Kaggle Playground Series (S4E12) Competition, you can find me (with my massive ensemble model) somewhere on [this leaderboard](https://www.kaggle.com/competitions/playground-series-s4e12/leaderboard#).
+
 ---
