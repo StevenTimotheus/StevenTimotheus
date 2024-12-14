@@ -17,7 +17,7 @@ I'm an digital architect by day, recreational programmer by night. This github i
 - **Innovation:** Spearheading cutting-edge projects with AI, machine learning, and emerging technologies to drive impactful outcomes.
 - **Digital Transformation:** Leading initiatives to modernize and optimize organizational processes through technology, aligning IT strategies with business goals.
 - **Data Science:** Building predictive models, applying mathematical optimisation algoritmes, and crafting insights from complex datasets to support decision-making.
-- **Organisational System Design:** Structuring systems and processes for efficiency, agility, and scalability while maintaining alignment with organizational culture and strategy.
+- **Organisational Systems Design:** Structuring systems and processes for efficiency, agility, and scalability while maintaining alignment with organizational culture and strategy.
 
 
 ## My Values
