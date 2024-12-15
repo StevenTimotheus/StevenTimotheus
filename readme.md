@@ -1,4 +1,4 @@
-# Hi there, I'm Steven by the way! 🌶️
+# Hi there, I'm Steven by the way!
 
 ## About Me
 I'm an digital architect by day, recreational programmer by night. This github is my private github account, and is not used for any projects or products related to my dayjob. 
