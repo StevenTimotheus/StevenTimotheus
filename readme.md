@@ -67,7 +67,7 @@ I'm an digital architect by day, recreational programmer by night. This github i
 
 ## 2024 Challenges
 ### September
-Participated in the PyData 2024 Challenge, you can read about it in [this blogpost](https://technology.amis.nl/machine-learning/mastering-realtime-data-how-i-topped-the-leaderboard-at-pydata/).
+Participated in the PyData 2024 Challenge. 
 
 ### December
 Participating in advent of code ~~writing without using any python (best way to learn rust).~~ writing python and afterwards trying to create a rust implementation, it seems I still suck at writing rust (fast).
